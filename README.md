@@ -4,6 +4,7 @@
 - 👀 I have finished my courses: PHP, Laravel
 - 💞️ I am looking to work with companies that take Junior positions and am willing to learn quickly 
 - 📫 How to reach me @a.zhaparov1484@gmail.com
+- 90 Days of code to get frontend job 
 
 <!---
 61vck/61vck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
